@@ -1,0 +1,19 @@
+{
+  "currentPlayer": 54,
+  "currentStaff": 1,
+  "currentModo": 0,
+  "currentAdmin": 1,
+  "currentSupport": 0,
+  "modoWorking": [],
+  "adminWorking": [
+    "neo.getsu"
+  ],
+  "supportWorking": [],
+  "currentStaffInCity": 2,
+  "listModo": [],
+  "listAdmin": [],
+  "listSupport": [
+    "``zortix_94 (1609)``\n<@830910801219944449>\n",
+    "``hellbi.https (undefined)``\n<@1166413371546026146>\n"
+  ]
+}
